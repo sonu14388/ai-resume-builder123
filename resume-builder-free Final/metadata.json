@@ -1,0 +1,6 @@
+{
+  "name": "Resume Builder Free",
+  "description": "Free, professional resume builder with real-time live preview, 500+ designer & ATS-friendly templates, section customization, and instant A4 PDF download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
